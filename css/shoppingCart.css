@@ -1,0 +1,46 @@
+body,
+html {
+  height: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  background-color: #f0f0f0 !important;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-img {
+  height: 50px;
+  width: 50px;
+}
+
+.input-quantity {
+  width: 30%;
+}
+
+.main-container {
+  background-color: #fff;
+}
+
+.btn-buy {
+  font-size: 12px;
+}
+
+.totalText {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-right: 15px;
+}
+
+.totalContainer {
+  background-color: #fff;
+  padding-right: 40px;
+}
+
+.valueText {
+  margin-right: 60px;
+  font-size: 18px;
+  margin-bottom: 0;
+}
